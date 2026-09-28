@@ -1,0 +1,15 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/Windows/FileOpenOrder/
+
+# Visual Studio
+.vs/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# VS Code
+.vscode/
